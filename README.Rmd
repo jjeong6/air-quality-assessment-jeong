@@ -1,0 +1,18 @@
+---
+title: "OpenAQ"
+output: github_document
+---
+
+A tool used to compare the air pollution data of two cities.
+
+***
+
+## Shiny App
+
+Live version: [https://jjeong6.shinyapps.io/OpenAQProject/](https://jjeong6.shinyapps.io/OpenAQProject/)
+
+## Functions of the tool
+
+- Compares using autocomplete and allows the users to select at most two cities.
+- Select the parameter of all the different units for air pollution readings in the API
+- Select the data range to display graph
